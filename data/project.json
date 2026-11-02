@@ -10,14 +10,14 @@
     {
       "id": "customer",
       "name": "مدیریت مشتری",
-      "progress": 100,
+      "progress": 25,
       "status": "ثبت نشده",
-      "testProgress": null,
+      "testProgress": 0,
       "phases": {
         "implementation": 100,
-        "processImplementation": null,
-        "testing": null,
-        "delivery": null
+        "processImplementation": 0,
+        "testing": 0,
+        "delivery": 0
       }
     },
     {
