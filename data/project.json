@@ -58,10 +58,10 @@
       "team": "تیم مهندسی فروش",
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
-      "completedDate": null,
-      "resolutionNotes": null
+      "completedDate": "۱۴۰۵/۰۸/۱۱",
+      "resolutionNotes": "سرویس سمت رسمی مشکل داشت؛ بررسی شد و رفع شد."
     },
     {
       "id": "TH-BUG-002",
