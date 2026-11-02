@@ -110,6 +110,12 @@ body,.layout{background:#f2f4f7;color:var(--nw-ink)}
 .footer{width:100%;grid-column:auto;color:#8190a3;margin-top:25px}
 @media(max-width:1000px){.overview-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.nw-main-grid{grid-template-columns:1fr}.module-stack{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){.main{padding:0 12px 25px}.tophead{width:calc(100% + 24px);margin:0 -12px;padding:12px;min-height:68px}.brand-logo strong{font-size:15px}.brand-logo{padding-left:10px;margin-left:0}.header-section{display:none}.navbox{flex-wrap:nowrap;overflow-x:auto;padding:14px 0;gap:7px}.nav{white-space:nowrap;padding:9px 11px}.overview-stats,.module-stack,.nw-summary-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.nw-panel{padding:14px}.stat-simple{min-height:105px;padding:14px}.stat-value{font-size:20px}.pagehead h2{font-size:20px}}
+
+/* Clear group headings and green checked bug indicators */
+#view .bug-group h3,#view .bug-group-title{color:#15243d!important;font-weight:800!important;font-size:18px!important;opacity:1!important}
+#view input[type="checkbox"]:checked{accent-color:#15945e!important;filter:none;opacity:1!important}
+#view input[type="checkbox"]:checked:disabled{accent-color:#15945e!important;opacity:1!important}
+#view input[type="checkbox"]:disabled{cursor:default}
 </style></head><body><div class="layout"><main class="main"><div class="dashboard-shell"><header class="tophead"><div class="brand-logo"><strong>TECHNOHUB</strong><small>PROJECT WORKSPACE</small></div><div class="header-section"><strong>داشبورد مدیریت پروژه</strong><small>نمای زنده اطلاعات ثبت‌شده تکنوهاب</small></div><span class="pill">● فقط‌خواندنی</span></header><nav class="navbox" id="nav" aria-label="بخش‌های داشبورد"></nav><div class="pagehead"><h2 id="heading">داشبورد اصلی</h2><span class="muted">گزارش وضعیت پروژه</span></div><div id="view"></div></div><footer class="footer">TechnoHub PMO • اطلاعات از فایل JSON مخزن خوانده می‌شود • ویرایش فقط از طریق GitHub</footer></main></div>
 <script>
 const sections=[["overview","داشبورد اصلی","◫"],["modules","ماژول‌ها","▦"],["structure","ساختار پروژه","☷"],["tasks","فعالیت‌ها و پیشرفت","☑"],["schedule","زمان‌بندی","▤"],["releases","نسخه‌ها و باگ‌ها","⚑"],["risks","ریسک‌ها و موانع","⚠"],["reports","گزارش‌ها","▣"]];
