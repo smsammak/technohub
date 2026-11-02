@@ -61,7 +61,8 @@
       "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": "۱۴۰۵/۰۸/۱۱",
-      "resolutionNotes": "سرویس سمت رسمی مشکل داشت؛ بررسی شد و رفع شد."
+      "resolutionNotes": "سرویس سمت رسمی مشکل داشت؛ بررسی شد و رفع شد.",
+      "status": "done"
     },
     {
       "id": "TH-BUG-002",
@@ -74,7 +75,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-003",
@@ -87,7 +89,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-004",
@@ -100,7 +103,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-005",
@@ -113,7 +117,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-006",
@@ -126,7 +131,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-007",
@@ -139,7 +145,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-008",
@@ -152,7 +159,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-009",
@@ -165,7 +173,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-010",
@@ -178,7 +187,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-011",
@@ -191,7 +201,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-012",
@@ -204,7 +215,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-013",
@@ -217,7 +229,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-014",
@@ -230,7 +243,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-015",
@@ -243,7 +257,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-016",
@@ -256,7 +271,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-017",
@@ -269,7 +285,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-018",
@@ -282,7 +299,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-019",
@@ -295,7 +313,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-020",
@@ -308,7 +327,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-021",
@@ -321,7 +341,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-022",
@@ -334,7 +355,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-023",
@@ -347,7 +369,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-024",
@@ -360,7 +383,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-025",
@@ -373,7 +397,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-026",
@@ -386,7 +411,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-027",
@@ -399,7 +425,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-028",
@@ -412,7 +439,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-029",
@@ -425,7 +453,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-030",
@@ -438,7 +467,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-031",
@@ -451,7 +481,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     },
     {
       "id": "TH-BUG-032",
@@ -464,7 +495,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null
+      "resolutionNotes": null,
+      "status": "open"
     }
   ],
   "questions": [
