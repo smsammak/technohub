@@ -4,32 +4,36 @@
     "description": "داشبورد مدیریت پیشرفت توسعه نرم‌افزار",
     "startDate": null,
     "targetDate": null,
-    "updatedAt": null
+    "updatedAt": "2026-11-02"
   },
   "modules": [
     {
       "id": "customer",
       "name": "مدیریت مشتری",
-      "progress": null,
-      "status": "ثبت نشده"
+      "progress": 100,
+      "status": "ثبت نشده",
+      "testProgress": null
     },
     {
       "id": "sales",
       "name": "مدیریت فروش",
       "progress": null,
-      "status": "ثبت نشده"
+      "status": "ثبت نشده",
+      "testProgress": null
     },
     {
       "id": "finance",
       "name": "مدیریت مالی",
       "progress": null,
-      "status": "ثبت نشده"
+      "status": "ثبت نشده",
+      "testProgress": null
     },
     {
       "id": "crm",
       "name": "مدیریت CRM",
       "progress": null,
-      "status": "ثبت نشده"
+      "status": "ثبت نشده",
+      "testProgress": null
     }
   ],
   "wbs": [],
