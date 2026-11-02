@@ -1,0 +1,42 @@
+{
+  "project": {
+    "name": "تکنوهاب",
+    "description": "داشبورد مدیریت پیشرفت توسعه نرم‌افزار",
+    "startDate": null,
+    "targetDate": null,
+    "updatedAt": null
+  },
+  "modules": [
+    {
+      "id": "customer",
+      "name": "مدیریت مشتری",
+      "progress": null,
+      "status": "ثبت نشده"
+    },
+    {
+      "id": "sales",
+      "name": "مدیریت فروش",
+      "progress": null,
+      "status": "ثبت نشده"
+    },
+    {
+      "id": "finance",
+      "name": "مدیریت مالی",
+      "progress": null,
+      "status": "ثبت نشده"
+    },
+    {
+      "id": "crm",
+      "name": "مدیریت CRM",
+      "progress": null,
+      "status": "ثبت نشده"
+    }
+  ],
+  "wbs": [],
+  "tasks": [],
+  "milestones": [],
+  "risks": [],
+  "reports": [],
+  "releases": [],
+  "bugs": []
+}
