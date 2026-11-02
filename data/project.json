@@ -12,28 +12,52 @@
       "name": "مدیریت مشتری",
       "progress": 100,
       "status": "ثبت نشده",
-      "testProgress": null
+      "testProgress": null,
+      "phases": {
+        "implementation": 100,
+        "processImplementation": null,
+        "testing": null,
+        "delivery": null
+      }
     },
     {
       "id": "sales",
       "name": "مدیریت فروش",
       "progress": null,
       "status": "ثبت نشده",
-      "testProgress": null
+      "testProgress": null,
+      "phases": {
+        "implementation": null,
+        "processImplementation": null,
+        "testing": null,
+        "delivery": null
+      }
     },
     {
       "id": "finance",
       "name": "مدیریت مالی",
       "progress": null,
       "status": "ثبت نشده",
-      "testProgress": null
+      "testProgress": null,
+      "phases": {
+        "implementation": null,
+        "processImplementation": null,
+        "testing": null,
+        "delivery": null
+      }
     },
     {
       "id": "crm",
       "name": "مدیریت CRM",
       "progress": null,
       "status": "ثبت نشده",
-      "testProgress": null
+      "testProgress": null,
+      "phases": {
+        "implementation": null,
+        "processImplementation": null,
+        "testing": null,
+        "delivery": null
+      }
     }
   ],
   "wbs": [],
