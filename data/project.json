@@ -59,7 +59,9 @@
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-002",
@@ -70,7 +72,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-003",
@@ -81,7 +85,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-004",
@@ -92,7 +98,9 @@
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-005",
@@ -103,7 +111,9 @@
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-006",
@@ -114,7 +124,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-007",
@@ -125,7 +137,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-008",
@@ -136,7 +150,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-009",
@@ -147,7 +163,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-010",
@@ -158,7 +176,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-011",
@@ -169,7 +189,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-012",
@@ -180,7 +202,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-013",
@@ -191,7 +215,9 @@
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-014",
@@ -202,7 +228,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-015",
@@ -213,7 +241,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-016",
@@ -224,7 +254,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-017",
@@ -235,7 +267,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-018",
@@ -246,7 +280,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-019",
@@ -257,7 +293,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-020",
@@ -268,7 +306,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-021",
@@ -279,7 +319,9 @@
       "module": "مدیریت CRM",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-022",
@@ -290,7 +332,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-023",
@@ -301,7 +345,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-024",
@@ -312,7 +358,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-025",
@@ -323,7 +371,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-026",
@@ -334,7 +384,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-027",
@@ -345,7 +397,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-028",
@@ -356,7 +410,9 @@
       "module": "مدیریت مالی",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-029",
@@ -367,7 +423,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-030",
@@ -378,7 +436,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-031",
@@ -389,7 +449,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     },
     {
       "id": "TH-BUG-032",
@@ -400,7 +462,9 @@
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
       "done": false,
-      "kind": "مورد فنی / اصلاحی / توسعه‌ای"
+      "kind": "مورد فنی / اصلاحی / توسعه‌ای",
+      "completedDate": null,
+      "resolutionNotes": null
     }
   ],
   "questions": [
