@@ -207,11 +207,11 @@
       "team": "تیم مهندسی فروش",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": "۱۴۰۵/۰۸/۱۲",
       "resolutionNotes": "تا زمانی که قیمت محصول قیمت‌گذاری نشود، نمایش داده نخواهد شد.",
-      "status": "open"
+      "status": "done"
     },
     {
       "id": "TH-BUG-004",
