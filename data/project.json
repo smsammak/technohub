@@ -475,8 +475,8 @@
       "done": false,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null,
-      "status": "open"
+      "resolutionNotes": "فعلاً از برنامه این نسخه کنار گذاشته شد؛ در آینده نزدیک به سیستم اضافه می‌شود.",
+      "status": "deferred"
     },
     {
       "id": "TH-BUG-022",
