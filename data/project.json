@@ -178,11 +178,31 @@
           "items": [
             {
               "title": "گزارش هوشمند قرارداد",
-              "done": false
+              "done": false,
+              "subItems": [
+                {
+                  "title": "ثبت قرارداد",
+                  "done": false
+                },
+                {
+                  "title": "آنالیز هوشمند قرارداد",
+                  "done": false
+                }
+              ]
             },
             {
               "title": "گزارش هوشمند مناقصه",
-              "done": false
+              "done": false,
+              "subItems": [
+                {
+                  "title": "ارسال فایل PDF مناقصه",
+                  "done": false
+                },
+                {
+                  "title": "آنالیز هوشمند مناقصه",
+                  "done": false
+                }
+              ]
             }
           ]
         }
