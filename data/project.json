@@ -159,6 +159,34 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ai",
+      "name": "ماژول‌های هوش مصنوعی",
+      "progress": null,
+      "status": "ثبت نشده",
+      "testProgress": null,
+      "phases": {
+        "implementation": null,
+        "processImplementation": null,
+        "testing": null,
+        "delivery": null
+      },
+      "charterSections": [
+        {
+          "title": "گزارش‌های هوشمند",
+          "items": [
+            {
+              "title": "گزارش هوشمند قرارداد",
+              "done": false
+            },
+            {
+              "title": "گزارش هوشمند مناقصه",
+              "done": false
+            }
+          ]
+        }
+      ]
     }
   ],
   "wbs": [],
