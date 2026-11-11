@@ -430,11 +430,11 @@
       "team": "تیم فروش راهکارهای پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
-      "resolutionNotes": null,
-      "status": "in_progress"
+      "resolutionNotes": "امکان دریافت خروجی Excel به پیش‌فاکتورها اضافه شد.",
+      "status": "done"
     },
     {
       "id": "TH-BUG-019",
