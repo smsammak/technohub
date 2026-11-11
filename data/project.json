@@ -10,13 +10,13 @@
     {
       "id": "customer",
       "name": "مدیریت مشتری",
-      "progress": 25,
+      "progress": 75,
       "status": "ثبت نشده",
-      "testProgress": 0,
+      "testProgress": 100,
       "phases": {
         "implementation": 100,
-        "processImplementation": 0,
-        "testing": 0,
+        "processImplementation": 100,
+        "testing": 100,
         "delivery": 0
       },
       "charterSections": [
