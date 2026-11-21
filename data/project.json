@@ -266,7 +266,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": "۱۴۰۵/۰۸/۱۱",
       "resolutionNotes": "سرویس سمت رسمی مشکل داشت؛ بررسی شد و رفع شد.",
-      "status": "done"
+      "status": "no_issue",
+      "spreadsheetTaskId": "هاب-001",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "با همین مشتری تست شد و مشکلی مشاهده نشد",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-002",
@@ -276,11 +280,15 @@
       "team": "تیم مهندسی فروش",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-002",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "به درخواست آقای سماک فقط دو آیتم برای تست اضافه شده؛ سایر آیتم‌ها باید توسط تیم مربوطه ثبت شوند.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-003",
@@ -294,7 +302,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": "۱۴۰۵/۰۸/۱۲",
       "resolutionNotes": "تا زمانی که قیمت محصول قیمت‌گذاری نشود، نمایش داده نخواهد شد.",
-      "status": "done"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-003",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "فقط دو آیتم جهت تست تعریف شده و سایر آیتم‌ها باید توسط تیم مربوطه ثبت شوند.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-004",
@@ -304,11 +316,15 @@
       "team": "تیم مهندسی فروش",
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-004",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "چهار مشتری برای تست تعریف شده؛ انتقال اطلاعات مشتریان خرد از MMS در حال پیاده‌سازی است. درباره انتقال BRM پاسخ صریحی وجود ندارد.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-005",
@@ -318,11 +334,15 @@
       "team": "تیم مهندسی فروش",
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "no_issue",
+      "spreadsheetTaskId": "هاب-005",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "آدرس‌های مشتری در فرم مدیریت مشتریان قابل مدیریت و ویرایش است و در سایر فرم‌ها سیستمی نمایش داده می‌شود؛ مسئول ثبت مشخص نشده است.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-006",
@@ -336,7 +356,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-006",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-007",
@@ -350,7 +374,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-007",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P4 | پایین"
     },
     {
       "id": "TH-BUG-008",
@@ -360,11 +388,15 @@
       "team": "تیم مهندسی فروش",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "no_issue",
+      "spreadsheetTaskId": "هاب-008",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "اطلاعات نمونه تستی است؛ واحد سنجش هر کالا یا خدمت در فرم مدیریت کالا/خدمات قابل تعریف و ویرایش است.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-009",
@@ -378,7 +410,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-009",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P3 | متوسط"
     },
     {
       "id": "TH-BUG-010",
@@ -392,7 +428,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-010",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "پرسیده شده چه تغییر مشخصی در اطلاعات گارانتی مدنظر است.",
+      "spreadsheetPriority": "P3 | متوسط"
     },
     {
       "id": "TH-BUG-011",
@@ -406,7 +446,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-011",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید؛ تکلیف مجاز بودن ترکیب حروف و اعداد مشخص نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-012",
@@ -420,7 +464,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-012",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P2 | بالا"
     },
     {
       "id": "TH-BUG-013",
@@ -430,11 +478,15 @@
       "team": "تیم فروش راهکارهای پرداخت",
       "module": "مدیریت مشتری",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "no_issue",
+      "spreadsheetTaskId": "هاب-013",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "ادمین امکان مدیریت دسترسی را دارد؛ زمان فراهم شدن صدور پیش‌فاکتور تستی مشخص نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-014",
@@ -444,11 +496,15 @@
       "team": "تیم فروش راهکارهای پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "no_issue",
+      "spreadsheetTaskId": "هاب-014",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "واحد سنجش هر کالا یا خدمت در فرم مدیریت کالا/خدمات قابل تعریف و ویرایش است.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-015",
@@ -458,11 +514,15 @@
       "team": "تیم فروش راهکارهای پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-015",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-016",
@@ -472,11 +532,15 @@
       "team": "تیم فروش راهکارهای پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-016",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "آقای سماک در حال بررسی و تدوین موضوع است.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-017",
@@ -486,11 +550,15 @@
       "team": "تیم فروش راهکارهای پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-017",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "خطای ۴۰۳ مربوط به دسترسی اعلام شده؛ ادمین امکان مدیریت دسترسی‌ها را دارد.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-018",
@@ -504,7 +572,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": "اضافه شد.",
-      "status": "done"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-018",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "به دلیل قالب فایل خروجی هنوز پیاده‌سازی نشده؛ قبلاً با آقایان سماک و قنبری مذاکره شده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-019",
@@ -514,11 +586,15 @@
       "team": "تیم فروش راهکارهای پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-019",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "فیلد در طرح فیگما وجود داشته اما طبق مذاکره نیاز نبودن آن مشخص شده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-020",
@@ -532,7 +608,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-020",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P2 | بالا"
     },
     {
       "id": "TH-BUG-021",
@@ -542,11 +622,15 @@
       "team": "تیم فروش سرویس پرداخت",
       "module": "مدیریت CRM",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": "فعلاً از برنامه این نسخه کنار گذاشته شد؛ در آینده نزدیک به سیستم اضافه می‌شود.",
-      "status": "deferred"
+      "status": "no_issue",
+      "spreadsheetTaskId": "هاب-021",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "ادمین امکان مدیریت دسترسی را دارد.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-022",
@@ -556,11 +640,15 @@
       "team": "تیم فروش سرویس پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-022",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "اضافه خواهد شد.",
+      "spreadsheetPriority": "P5 | نامشخص"
     },
     {
       "id": "TH-BUG-023",
@@ -574,7 +662,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-023",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-024",
@@ -584,11 +676,15 @@
       "team": "تیم فروش سرویس پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-024",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-025",
@@ -602,7 +698,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "review",
+      "spreadsheetTaskId": "هاب-025",
+      "spreadsheetStatus": "نیاز به بررسی",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-026",
@@ -616,7 +716,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-026",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-027",
@@ -630,7 +734,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "open",
+      "spreadsheetTaskId": "هاب-027",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-028",
@@ -644,7 +752,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "review",
+      "spreadsheetTaskId": "هاب-028",
+      "spreadsheetStatus": "نیاز به بررسی",
+      "spreadsheetResponse": "مشکلی مشاهده نشد؛ نیاز به توضیح بیشتر دارد.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-029",
@@ -654,11 +766,15 @@
       "team": "تیم فروش سرویس پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "no_issue",
+      "spreadsheetTaskId": "هاب-029",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "سمت نمایش داده میشود اما اسم خیر",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-030",
@@ -668,11 +784,15 @@
       "team": "تیم فروش سرویس پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-030",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "اضافه خواهد شد.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-031",
@@ -682,11 +802,15 @@
       "team": "تیم فروش سرویس پرداخت",
       "module": "مدیریت فروش",
       "moduleAssignment": "پیشنهادی؛ نیازمند بازبینی",
-      "done": false,
+      "done": true,
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": null,
-      "status": "open"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-031",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "نیازمندی جدید",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-BUG-032",
@@ -700,7 +824,11 @@
       "kind": "مورد فنی / اصلاحی / توسعه‌ای",
       "completedDate": null,
       "resolutionNotes": "اضافه شد.",
-      "status": "done"
+      "status": "done",
+      "spreadsheetTaskId": "هاب-032",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "اضافه خواهد شد.",
+      "spreadsheetPriority": "P1 | فوری"
     }
   ],
   "questions": [
@@ -709,77 +837,121 @@
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "آیا اطلاعات اشخاص کلیدی مشتریان از BRM برسا به هاب منتقل خواهند شد؟",
-      "status": "باز"
+      "status": "انجام‌شده",
+      "spreadsheetTaskId": "هاب-033",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "بله منتقل شد",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-002",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "آیا ثبت و مشاهده سوابق مدیریتی و سمت‌های پیشین اشخاص امکان‌پذیر است؟",
-      "status": "باز"
+      "status": "نیاز به بررسی",
+      "spreadsheetTaskId": "هاب-034",
+      "spreadsheetStatus": "نیاز به بررسی",
+      "spreadsheetResponse": "باید جلسه گذاشته شود ",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-003",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "ثبت و تکمیل اطلاعات اشخاص رابط و اعضای هیئت‌مدیره بر عهده کدام واحد است؟",
-      "status": "باز"
+      "status": "نیاز به انجام",
+      "spreadsheetTaskId": "هاب-035",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "واحد مسئول ثبت اطلاعات اشخاص رابط و هیئت‌مدیره تعیین نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-004",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "ثبت آدرس تحویل و مشخصات رابط بر عهده کدام تیم است؟",
-      "status": "باز"
+      "status": "نیاز به انجام",
+      "spreadsheetTaskId": "هاب-036",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "باید جلسه گذاشته شود ",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-005",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "ثبت و تکمیل ضمانت‌نامه‌ها مسئولیت کدام واحد است؟",
-      "status": "باز"
+      "status": "نیاز به انجام",
+      "spreadsheetTaskId": "هاب-037",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "مالی ",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-006",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "«خدمات عمومی» در قرارداد پشتیبانی به چه معناست؟",
-      "status": "باز"
+      "status": "بررسی شد؛ مشکلی نبود",
+      "spreadsheetTaskId": "هاب-038",
+      "spreadsheetStatus": "بررسی شد مشکلی نبود",
+      "spreadsheetResponse": "تعریف «خدمات عمومی» در قراردادهای پشتیبانی ارائه نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-007",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "تفاوت خدمات عمومی و پشتیبانی چیست؟",
-      "status": "باز"
+      "status": "نیاز به انجام",
+      "spreadsheetTaskId": "هاب-039",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "تفاوت «خدمات عمومی» و «پشتیبانی» توضیح داده نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-008",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "فیلد نام سایت در افزودن کالا چه مفهومی دارد؟",
-      "status": "باز"
+      "status": "نیاز به انجام",
+      "spreadsheetTaskId": "هاب-040",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "معنا و محتوای مورد انتظار فیلد نام سایت مشخص نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-009",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم مهندسی فروش",
       "title": "آیا شماره قرارداد باید عددی باشد یا حروف و اعداد نیز مجاز است؟",
-      "status": "باز"
+      "status": "نیاز به انجام",
+      "spreadsheetTaskId": "هاب-041",
+      "spreadsheetStatus": "نیاز به انجام",
+      "spreadsheetResponse": "در مورد فنی ۱۱ موضوع «شماره قرارداد» نیازمندی جدید شمرده شده؛ مجاز بودن حروف و اعداد تعیین نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-010",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم فروش راهکارهای پرداخت",
       "title": "پس از تخصیص مشتریان و قراردادها به Account Managerها، چه زمانی امکان پیش‌فاکتور تستی و بررسی نهایی فراهم می‌شود؟",
-      "status": "باز"
+      "status": "انجام‌شده",
+      "spreadsheetTaskId": "هاب-042",
+      "spreadsheetStatus": "انجام شده",
+      "spreadsheetResponse": "مورد فنی ۱۳ می‌گوید ادمین می‌تواند دسترسی را مدیریت کند؛ زمان صدور پیش‌فاکتور تستی مشخص نیست.",
+      "spreadsheetPriority": "P1 | فوری"
     },
     {
       "id": "TH-Q-011",
       "releaseId": "release-1-0-4-3934",
       "team": "تیم فروش سرویس پرداخت",
       "title": "در تکمیل دریافتی از مشتری، مسئول ثبت اطلاعات فروش است یا خزانه؟",
-      "status": "باز"
+      "status": "نیاز به بررسی",
+      "spreadsheetTaskId": "هاب-043",
+      "spreadsheetStatus": "نیاز به بررسی",
+      "spreadsheetResponse": "مسئول ثبت «تکمیل دریافتی از مشتری» میان فروش و خزانه تعیین نشده است.",
+      "spreadsheetPriority": "P1 | فوری"
     }
   ]
 }
